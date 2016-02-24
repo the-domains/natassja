@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Natassja's Website]]></title>
         <description><![CDATA[Natassja's Website]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/natassja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 08:46:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 09:13:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/natassja/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Come on out to join my band and I as we introduce new music for my first full-length studio album. You will be my ears for the evening as I try out the new material and let you be the judge and jury. I know that's a lot to throw at you but I figure we've been friends for so long and you've supported me and the music all along so who better to share in this experience and give me your feedback. I value that more than you'll ever know.</p>]]></description>
-            <link>undefined7e1631d0-09b5-40de-a22b-755e2c5ad44d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef70bcd0-7366-4c3b-855f-0eeca492994d.jpg">]]></description>
+            <link>https://thegrid.ai/natassja/7e1631d0-09b5-40de-a22b-755e2c5ad44d/index.html</link>
             <guid isPermaLink="false">7e1631d0-09b5-40de-a22b-755e2c5ad44d</guid>
-            <pubDate>Wed, 24 Feb 2016 08:45:56 GMT</pubDate>
+            <pubDate>Wed, 24 Feb 2016 09:12:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
