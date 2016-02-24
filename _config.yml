@@ -1,7 +1,7 @@
 name: Natassja
 favicon: null
 layout_spectrum: 0.8998241643421352
-typography_spectrum: 0.24888469651341438
+typography_spectrum: 0.58203
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#fdfed6'
+    - '#050649'
+    - '#3e689a'
+    - '#82babb'
+    - '#af4d66'
   brandStrength: 0.8679318055510521
   lightness: 0.5701185120269656
   saturation: 0.9375961879268289
