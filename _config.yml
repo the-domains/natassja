@@ -1,0 +1,28 @@
+name: Natassja
+favicon: null
+layout_spectrum: 0.8998241643421352
+typography_spectrum: 0.24888469651341438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8679318055510521
+  lightness: 0.5701185120269656
+  saturation: 0.9375961879268289
+  rhythmicContrast: 0.7693986182566732
+purpose: []
