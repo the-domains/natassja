@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Natassja's Website]]></title>
-        <description><![CDATA[Natassja's Website]]></description>
+        <title><![CDATA[It's Natassja "The Sweetest Girl"]]></title>
+        <description><![CDATA[It's Natassja "The Sweetest Girl"]]></description>
         <link>https://thegrid.ai/natassja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 09:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 09:28:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/natassja/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beeed8c33962b9d09c0f79de624ff670a9e2bdd9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/natassja/home/index.html</link>
+            <guid isPermaLink="false">6c826735-50c4-4bef-85e9-715e4ecc27f2</guid>
+            <pubDate>Wed, 24 Feb 2016 09:27:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef70bcd0-7366-4c3b-855f-0eeca492994d.jpg">]]></description>
